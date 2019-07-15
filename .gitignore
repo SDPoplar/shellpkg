@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# IDE
+.vs/
+Debug/
+Release/
+
+# vim
+.swp
+
